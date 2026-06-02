@@ -1,9 +1,5 @@
 # APE 4 — Grafos: Mapa del Campus UTA
 
-## Integrantes
-
-Grupo 8 — Estructura de Datos
-
 ## Descripción
 
 Este proyecto implementa un grafo mediante listas de adyacencia para representar diferentes ubicaciones dentro del Campus Huachi de la Universidad Técnica de Ambato (UTA).
